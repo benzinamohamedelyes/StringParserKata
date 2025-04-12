@@ -52,3 +52,8 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+.vs/ProjectEvaluation
+.vs/StringParserKata/CopilotIndices
+.vs/StringParserKata/DesignTimeBuild
+.vs/StringParserKata/FileContentIndex
+.vs/StringParserKata/v17
